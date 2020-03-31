@@ -1,0 +1,2 @@
+# EduWiz
+MishMash Hackathon submission 
