@@ -1,0 +1,8 @@
+regex
+requests
+flask
+nltk
+regex
+azure
+azure-ai-textanalytics
+gunicorn
